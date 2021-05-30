@@ -70,7 +70,7 @@ exit();
 					</ul>
 				</div><!-- /.nav-collapse -->
 			</div>
-		</div><!-- /navbar-inner -->
+		</div><!-- /navbar-innear -->
 	</div><!-- /navbar -->
 
 
