@@ -66,7 +66,7 @@
                                 <div class="card-header">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <h2 class="m-0 font-weight-bold text-primary">Category</h2>
+                                            <h2 class="m-0 font-weight-bold text-success">Category</h2>
                                         </div>
                                     </div>
                                     
@@ -113,7 +113,7 @@
                                 <div class="card-header">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <h2 class="m-0 font-weight-bold text-primary">Manage Category</h2>
+                                            <h2 class="m-0 font-weight-bold text-success">Manage Category</h2>
                                         </div>
                                     </div>
                                     

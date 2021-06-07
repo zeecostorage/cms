@@ -82,7 +82,7 @@
                                 <div class="card-header">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <h2 class="m-0 font-weight-bold text-primary">Complaints</h2>
+                                            <h2 class="m-0 font-weight-bold text-success">Complaints</h2>
                                         </div>
                                     </div>
                                     

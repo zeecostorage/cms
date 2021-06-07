@@ -47,7 +47,7 @@
                                 <div class="card-header">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <h2 class="m-0 font-weight-bold text-primary">Staff</h2>
+                                            <h2 class="m-0 font-weight-bold text-success">Staff</h2>
                                         </div>
                                     </div>
                                     

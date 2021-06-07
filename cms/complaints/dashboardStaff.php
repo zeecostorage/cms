@@ -77,7 +77,7 @@
                                 <div class="card-header">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <h2 class="m-0 font-weight-bold text-primary">Complaints : New Status</h2>
+                                            <h2 class="m-0 font-weight-bold text-success">Complaints : New Status</h2>
                                         </div>
                                     </div>
                                     
@@ -122,7 +122,7 @@
                                 <div class="card-header">
                                     <div class="row">
                                         <div class="col-lg-6">
-                                            <h2 class="m-0 font-weight-bold text-primary">Complaints : Pending Status</h2>
+                                            <h2 class="m-0 font-weight-bold text-success">Complaints : Pending Status</h2>
                                         </div>
                                     </div>
                                     
