@@ -10861,7 +10861,7 @@ a:focus {
 }
 
 .bg-login-image {
-  background: url("../img/logo.jpg");
+  background: url("../img/logo_new2.jpeg");
   background-position: center;
   /*background-size: cover;*/
   background-size: 100% 100%;
@@ -10869,34 +10869,34 @@ a:focus {
 }
 
 .bg-login-image-staff {
-  background: url("../img/logo_new2.jpg");
+  background: url("../img/logo_new2.jpeg");
   background-position: center;
   /*background-size: cover;*/
-  background-size: 100% 100%;
+  /*background-size: 100% 100%;*/
   background-repeat: no-repeat;
 }
 
 .bg-login-image-customer {
-  background: url("../img/logo_new2.jpg");
+  background: url("../img/logo_new2.jpeg");
   background-position: center;
   /*background-size: cover;*/
-  background-size: 100% 100%;
+  /*background-size: 100% 100%;*/
   background-repeat: no-repeat;
 }
 
 .bg-register-image {
-  background: url("../img/logo_new2.jpg");
+  background: url("../img/logo_new2.jpeg");
   background-position: center;
   /*background-size: cover;*/
-  background-size: 100% 100%;
+  /*background-size: 100% 100%;*/
   background-repeat: no-repeat;
 }
 
 .bg-password-image {
-  background: url("../img/logo_new2.jpg");
+  background: url("../img/logo_new2.jpeg");
   background-position: center;
   /*background-size: cover;*/
-  background-size: 100% 100%;
+  /*background-size: 100% 100%;*/
   background-repeat: no-repeat;
 }
 

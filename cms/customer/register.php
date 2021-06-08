@@ -4,7 +4,7 @@
 
 ?>
 
-<body class="bg-gradient-primary">
+<body class="bg-gradient-success">
 
     <div class="container">
 
@@ -12,8 +12,8 @@
             <div class="card-body p-0">
                 <!-- Nested Row within Card Body -->
                 <div class="row">
-                    <div class="col-lg-5 d-none d-lg-block bg-login-image-customer"></div>
-                    <div class="col-lg-7">
+                    <div class="col-lg-6 d-none d-lg-block bg-login-image-customer"></div>
+                    <div class="col-lg-6">
                         <div class="p-5">
                             <div class="text-center">
                                 <h1 class="h4 text-gray-900 mb-4">Create an Account!</h1>
@@ -93,9 +93,9 @@
                                 <input type="submit" id="submit" class="btn btn-primary btn-user btn-block" value="Register Account">
                             </form>
                             <hr>
-                            <div class="text-center">
+                            <!-- <div class="text-center">
                                 <a class="small" href="forgot-password.html">Forgot Password?</a>
-                            </div>
+                            </div> -->
                             <div class="text-center">
                                 <a class="small" href="../customer/login.php">Already have an account? Login!</a>
                             </div>
@@ -113,10 +113,14 @@
 
 <script type="text/javascript">
     $( document ).ready(function() {
+        // $("#submit").hide();
 
-        $("#submit").click(function(){
+        $("#submit").click(function(event){
+            event.preventDefault();
+
             var password = $("#password").val(); 
             var repeatPassword = $("#repeatPassword").val(); 
+
 
             if(password != repeatPassword){
                 $("#repeatPassword").css("border", "1px solid red");
@@ -125,6 +129,5 @@
                 $( "#register" ).submit();
             }
         });
-
     });
 </script>

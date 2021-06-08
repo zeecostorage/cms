@@ -34,9 +34,9 @@
                                         <input type="submit" class="btn btn-primary btn-user btn-block" value="Login">
                                     </form>
                                     <hr>
-                                    <div class="text-center">
+                                    <!-- <div class="text-center">
                                         <a class="small" href="forgot-password.html">Forgot Password?</a>
-                                    </div>
+                                    </div> -->
                                     <div class="text-center">
                                         <a class="small" href="../customer/register.php">Create an Account!</a>
                                     </div>
